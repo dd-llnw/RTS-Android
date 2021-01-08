@@ -1,0 +1,4 @@
+include ':libwebrtc'
+include ':llnwrtssdk'
+include ':app'
+rootProject.name = "rts-android"
